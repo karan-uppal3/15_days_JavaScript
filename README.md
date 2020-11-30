@@ -1,1 +1,2 @@
-# 30_days_JavaScript
+# 30 days of JavaScript
+Contains code snippets of p5.js
